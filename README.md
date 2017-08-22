@@ -7,7 +7,7 @@ Taller Git CAS
 Este es un repositorio de prueba, para practicar los conceptos aprendidos en el taller de git del Capítulo de Circuits and Systems de la rama de estudiantil de IEEE del Tecnológico de Costa Rica. 
 
 ## Getting Started
-En la [presentación](presentacion.pdf) del taller se puede encontrar los datos de la presentación que usaron los expositores. Un resumen de los comandos de git se puede encontrar en la [hoja de "claves"](git-cheat-sheet.pdf) de git. Un resumen de la sintaxis de Markdown puede ser encontrado en la [hoja de "claves"](markdown-cheat-sheet.pdf) de markdown.
+En la [presentación](GIT-TALLER.pdf) del taller se puede encontrar los datos de la presentación que usaron los expositores. Un resumen de los comandos de git se puede encontrar en la [hoja de "claves"](git-cheat-sheet.pdf) de git. Un resumen de la sintaxis de Markdown puede ser encontrado en la [hoja de "claves"](markdown-cheat-sheet.pdf) de markdown.
 
 ## Expositores
 
