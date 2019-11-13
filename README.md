@@ -19,7 +19,7 @@ Nombre | Correo | Emoji | Frase
 ------------ | ------------- | ------------- | -------------
 Malcolm Davis Steele | me@malcolmdavis.xyz | :zap: | - [Harry you're a wizard](https://www.youtube.com/watch?v=tKNhPpUR0Pg)
 Camila Gómez Molina | camilagm994@gmail.com | :see_no_evil: | - A veces se gana, a veces se pierde pero siempre se aprende.
-Noelia Blanco Jara | bjnoeliam@gmail.com | la paz nunca fue una opcion
+Noelia Blanco Jara | bjnoeliam@gmail.com | <3 |la paz nunca fue una opcion
 ## Laboratorio 1
 Este será un laboratorio guiado para aprender los comandos básicos locales de git, se realizará en conjunto con los expositores.
 * En este laboratorio se debe de iniciar un repositorio local en una nueva carpeta.
